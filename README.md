@@ -1,3 +1,11 @@
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HermawanAliM/count.svg?"/>
+</div>
+
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Halo, aku Hermawan! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 
-Selamat datang di profil GitHub saya! Seorang Junior Web Dev dan suka mengeksplorasi hal baru mengenai teknologi.
+Selamat datang di profil GitHub saya! 
+Seorang Junior Web Dev dan suka mengeksplorasi hal baru mengenai teknologi.
+
+
