@@ -8,4 +8,11 @@
 Selamat datang di profil GitHub saya! 
 Seorang Junior Web Dev dan suka mengeksplorasi hal baru mengenai teknologi.
 
+### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
+
+- **Languages:** JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** Bootstrap5, TailwindCSS
+- **Databases:** MySQL
+- **Tools:** Git, VSCode
+
 
