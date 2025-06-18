@@ -1,6 +1,7 @@
 ![Hi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV3NmM1bnl1MmN6bGN0N3B4d2RhcjJzYmVobWJyMDB0NzBzMGViYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRPy8MKag9U1U88hzY/giphy.gif)
 
-## Hi there 👋
+## Halo, aku Hermawan 👋
+Selamat datang di profile github ku
 
 <!--
 **HermawanAliM/HermawanAliM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
