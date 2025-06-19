@@ -20,3 +20,7 @@ Seorang Junior Web Dev dan suka mengeksplorasi hal baru mengenai teknologi.
 ![HermawanAliM GitHub stats](https://github-readme-stats.vercel.app/api?username=HermawanAliM&show_icons=true&theme=radical)
 
 
+### Mini Game
+<img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/snake.svg" alt="Snake animation" />
+
+
